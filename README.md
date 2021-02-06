@@ -5,6 +5,8 @@ Simple youtube mp3/mp4 downloader
 
 2- npm start
 
+Download [FFmpeg](https://ffmpeg.org/download.html) into ffmpeg folder.
+
 Links should be written to the links.txt file
 
 There are 3 sample links in links.txt file to show how to write links
